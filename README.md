@@ -15,4 +15,6 @@ Instructions
 2.Just run "predict.py" for predicting
 
 
-Dataset and pre-trained model
+Dataset
+
+https://www.kaggle.com/sandorkonya/ct-lung-heart-trachea-segmentation
